@@ -8,3 +8,4 @@
  - 三体（三册）- 刘慈欣
  - 晚清七十年（远流版）-  唐德刚
  - 北京折叠 - 郝景芳
+ - Steve Jobs - Walter Isaacson
