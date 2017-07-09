@@ -9,3 +9,4 @@ recommend: :thumbsup:
  - 晚清七十年（远流版）-  唐德刚 :thumbsup:
  - 北京折叠 - 郝景芳
  - Steve Jobs - Walter Isaacson
+ - The Economics of Money, Banking and Financial Markets (10th Edition) - Frederic S. Mishkin
