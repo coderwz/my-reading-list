@@ -12,3 +12,4 @@ recommend: :thumbsup:
  - Steve Jobs - Walter Isaacson
  - The Economics of Money, Banking and Financial Markets (10th Edition) - Frederic S. Mishkin
  - 万历十五年 - 黄仁宇 :thumbsup:
+ - The Old Man and The Sea - Ernest Hemingway :thumbsup:
