@@ -13,3 +13,5 @@ recommend: :thumbsup:
  - The Economics of Money, Banking and Financial Markets (10th Edition) - Frederic S. Mishkin
  - 万历十五年 - 黄仁宇 :thumbsup:
  - The Old Man and The Sea - Ernest Hemingway :thumbsup:
+ - The 7 Habits of Highly Effective People - Stephen Covey
+ - The Secret - Rhonda Byrne
