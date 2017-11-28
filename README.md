@@ -14,3 +14,4 @@ recommend: :thumbsup:
  - 万历十五年 - 黄仁宇 :thumbsup:
  - The Old Man and The Sea - Ernest Hemingway :thumbsup:
  - Rich Dad Poor Dad - Robert T. Kiyosaki :thumbsup:
+ - One Up On Wall Street - Peter Lynch :thumbsup:
